@@ -30,6 +30,13 @@ body {
  
  }
 
+ .btn btb-secondary {
+    position: fixed; bottom: 20px; right: 20px
+ }
+
 nav {
+    background-color: white;
+    padding: 10px;
+    color: blacl;
     
 }
